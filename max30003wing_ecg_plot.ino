@@ -18,7 +18,7 @@
 //  | INT1             | Interrupt1           |  02              |
 //  | INT2             | Interrupt2           |  -               |
 //
-//  Copyright Ⓒ Md Abdur Rahman
+//  Copyright © Md Abdur Rahman
 //
 /////////////////////////////////////////////////////////////////////////////////////////
 
