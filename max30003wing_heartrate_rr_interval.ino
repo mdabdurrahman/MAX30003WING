@@ -1,8 +1,8 @@
 //////////////////////////////////////////////////////////////////////////////////////////
 //
-//  Arduino code for the MAX30003 WING board
+//  Arduino code for the MAX30003WING board
 //
-//  Arduino to MAX30003 WING connections:
+//  Arduino UNO R3 to MAX30003WING connections:
 //
 //  |MAX30003 pin label| Pin Function         |Arduino Connection|
 //  |----------------- |:--------------------:|-----------------:|
