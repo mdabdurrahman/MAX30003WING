@@ -13,7 +13,6 @@
 //  | VCC              | Digital VDD          |  3.3V            |
 //  | GND              | Digital Gnd          |  GND             |
 //	| INTB             | Interrupt            |  D3              |
-//
 //  Copyright © Md Abdur Rahman
 //
 /////////////////////////////////////////////////////////////////////////////////////////
