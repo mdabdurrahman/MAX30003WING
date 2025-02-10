@@ -18,6 +18,7 @@
 //  | INT1             | Interrupt1           |  02              |
 //  | INT2             | Interrupt2           |  -               |
 //
+//  Copyright (c) Md Abdur Rahman
 /////////////////////////////////////////////////////////////////////////////////////////
 
 #include <SPI.h>
