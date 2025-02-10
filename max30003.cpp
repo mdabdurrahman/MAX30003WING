@@ -14,7 +14,7 @@
 //  | GND              | Digital Gnd          |  GND             |
 //  | INTB             | Interrupt            |  D3              |
 //
-//  Copyright (c) Md Abdur Rahman 
+//  Copyright © Md Abdur Rahman 
 //
 /////////////////////////////////////////////////////////////////////////////////////////
 
