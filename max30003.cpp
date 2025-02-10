@@ -2,7 +2,7 @@
 //
 //  Functions code for the MAX30003 WING board
 //
-//  Arduino to MAX30003 WING connections:
+//  Arduino UNO R3 to MAX30003 WING connections:
 //
 //  |MAX30003 pin label| Pin Function         |Arduino Connection|
 //  |----------------- |:--------------------:|-----------------:|
@@ -12,7 +12,7 @@
 //  | CS               | Chip Select          |  D10             |
 //  | VCC              | Digital VDD          |  3.3V            |
 //  | GND              | Digital Gnd          |  GND             |
-//	| INTB             | Interrupt            |  D3              |
+//  | INTB             | Interrupt            |  D3              |
 //
 //  Copyright (c) Md Abdur Rahman 
 //
@@ -173,8 +173,8 @@ void MAX30003::max30003BeginRtorMode()
     delay(100);
     max30003RegWrite(MNGR_DYN, 0x0F0000);
     delay(100);
-	max30003RegWrite(CNFG_EMUX, 0x000000);
-	delay(100);
+    max30003RegWrite(CNFG_EMUX, 0x000000);
+    delay(100);
     max30003Synch();
     delay(100);
 }
